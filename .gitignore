@@ -1,0 +1,8 @@
+*.ppt
+*.pptx
+*.exe
+*.docx
+*.doc
+*.pdf
+.vscode/
+.output/

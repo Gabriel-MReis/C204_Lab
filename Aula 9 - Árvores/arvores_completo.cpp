@@ -128,6 +128,7 @@ void PosOrdem (treenodeptr arvore)
 	}
 }
 
+
 void tDestruir (treenodeptr &arvore)
 {
 	if (arvore != NULL)
